@@ -1,0 +1,15 @@
+.todo-list-item {
+    cursor: pointer;
+}
+
+.todo-list-item-btn {
+    width: 35px;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.important {
+    font-weight: bold;
+}
